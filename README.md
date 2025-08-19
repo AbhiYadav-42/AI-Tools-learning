@@ -19,9 +19,10 @@ The course explores:
 
 ## 📅 My Progress Tracker  
 
-- [x] [Day 1 – Introduction to AI](day1_intro_to_ai.md) ✅  
-- [ ] Day 2 – Coming Soon  
+- [x] [Day 1 – Introduction to AI](AI-Tools-learning/Intro_to_AI.md) ✅  
+- [x] [Day 2 – AI Ethics](AI-Tools-learning/Ai_Ethics.md) ✅  
 - [ ] Day 3 – Coming Soon  
+- [ ] Day 4 – Coming Soon  
 - [ ] ...  
 
 ---
@@ -44,8 +45,19 @@ Each file contains my **daily notes** in clean Markdown format:
 ✔️ Types of AI  
 ✔️ AI Models (Supervised, Unsupervised, Reinforcement)  
 
-👉 Full notes here: [Day 1 Notes](day1_intro_to_ai.md)  
+👉 Full notes here: [Day 1 Notes](AI-Tools-learning/Intro_to_AI.md)  
 
+## 🌟 Highlights from Day 2
+
+✔️ What is AI Ethics?  
+✔️ Why AI Ethics matters (bias, privacy, fairness)  
+✔️ 5 Pillars of AI Ethics  
+✔️ Common ethical challenges in AI  
+✔️ AI Code of Ethics principles  
+✔️ Implementing ethical practices in real-world AI  
+✔️ Future of AI Ethics (regulations, transparency, safety)
+
+👉 Full notes here: [Day 2 Notes](AI-Tools-learning/Ai_Ethics.md)
 ---
 
 ## 🛠 Tools I’m Using  
