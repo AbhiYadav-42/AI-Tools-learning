@@ -21,7 +21,7 @@ The course explores:
 
 - [x] [Day 1 – Introduction to AI](IntroToAI.md) ✅  
 - [x] [Day 2 – AI Ethics](AiEthics.md) ✅  
-- [ ] Day 3 – Coming Soon  
+- [x] [Day 3 – AI Prompts](AiPrompts.md) ✅  
 - [ ] Day 4 – Coming Soon  
 - [ ] ...  
 
@@ -46,9 +46,10 @@ Each file contains my **daily notes** in clean Markdown format:
 ✔️ AI Models (Supervised, Unsupervised, Reinforcement)  
 
 👉 Full notes here: [Day 1 Notes](IntroToAI.md)  
+
 ---
 
-## 🌟 Highlights from Day 2
+## 🌟 Highlights from Day 2  
 
 ✔️ What is AI Ethics?  
 ✔️ Why AI Ethics matters (bias, privacy, fairness)  
@@ -56,9 +57,23 @@ Each file contains my **daily notes** in clean Markdown format:
 ✔️ Common ethical challenges in AI  
 ✔️ AI Code of Ethics principles  
 ✔️ Implementing ethical practices in real-world AI  
-✔️ Future of AI Ethics (regulations, transparency, safety)
+✔️ Future of AI Ethics (regulations, transparency, safety)  
 
 👉 Full notes here: [Day 2 Notes](AiEthics.md)  
+
+---
+
+## 🌟 Highlights from Day 3  
+
+✔️ What is an AI Prompt?  
+✔️ Why prompts are important (accuracy, time-saving, user experience)  
+✔️ Types of AI Prompts (text, Q&A, code, classification, creative)  
+✔️ How to create effective prompts (task definition, clarity, specificity)  
+✔️ Applications of prompts in content, coding, images, data analysis  
+✔️ Challenges & ethical concerns (bias, hallucinations, privacy)  
+
+👉 Full notes here: [Day 3 Notes](AiPrompts.md)  
+
 ---
 
 ## 🛠 Tools I’m Using  
