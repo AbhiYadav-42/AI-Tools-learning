@@ -21,8 +21,9 @@ The course explores:
 
 - [x] [Day 1 – Introduction to AI](./IntroToAI.md) ✅  
 - [x] [Day 2 – AI Ethics](./AiEthics.md) ✅  
-- [x] [Day 3 – AI Prompts](./AiPrompts.md) ✅   
-- [ ] Day 4 – Coming Soon  
+- [x] [Day 3 – AI Prompts](./AiPrompts.md) ✅  
+- [x] [Day 4 – AI Prompt Engineering](./AiPromptEngineering.md) ✅  
+- [ ] Day 5 – Coming Soon  
 - [ ] ...  
 
 ---
@@ -45,7 +46,7 @@ Each file contains my **daily notes** in clean Markdown format:
 ✔️ Types of AI  
 ✔️ AI Models (Supervised, Unsupervised, Reinforcement)  
 
-👉 Full notes here: [Day 1 Notes](IntroToAI.md)  
+👉 Full notes here: [Day 1 Notes](./IntroToAI.md)  
 
 ---
 
@@ -59,7 +60,7 @@ Each file contains my **daily notes** in clean Markdown format:
 ✔️ Implementing ethical practices in real-world AI  
 ✔️ Future of AI Ethics (regulations, transparency, safety)  
 
-👉 Full notes here: [Day 2 Notes](AiEthics.md)  
+👉 Full notes here: [Day 2 Notes](./AiEthics.md)  
 
 ---
 
@@ -72,7 +73,21 @@ Each file contains my **daily notes** in clean Markdown format:
 ✔️ Applications of prompts in content, coding, images, data analysis  
 ✔️ Challenges & ethical concerns (bias, hallucinations, privacy)  
 
-👉 Full notes here: [Day 3 Notes](AiPrompts.md)  
+👉 Full notes here: [Day 3 Notes](./AiPrompts.md)  
+
+---
+
+## 🌟 Highlights from Day 4  
+
+✔️ What is AI Prompt Engineering?  
+✔️ Process of crafting effective prompts (Role, Task, Instructions, Context, Input)  
+✔️ Importance of prompt engineering (performance, bias reduction, UX)  
+✔️ Steps & methodologies for designing, testing, and optimizing prompts  
+✔️ Techniques like contextual prompts, templates, iterative refinement  
+✔️ Best practices (clarity, examples, testing, avoiding ambiguity)  
+✔️ Applications across customer support, content, healthcare, education, research  
+
+👉 Full notes here: [Day 4 Notes](./AiPromptEngineering.md)  
 
 ---
 
